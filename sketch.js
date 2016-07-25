@@ -12,6 +12,7 @@ function setup() {
   frameRate(60)
   noStroke()
   fill(255)
+  noCursor()
 }
 
 function draw() {
